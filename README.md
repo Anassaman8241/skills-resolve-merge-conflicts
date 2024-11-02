@@ -1,5 +1,6 @@
 <header>
-Created this sentence again in the main
+my-resume
+Created this sentence 
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
